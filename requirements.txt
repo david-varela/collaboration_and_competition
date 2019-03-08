@@ -1,0 +1,6 @@
+unityagents
+pytorch
+torchvision
+numpy
+matplotlib
+unityagents
